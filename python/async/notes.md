@@ -1,0 +1,3 @@
+- want to write async python code
+- coroutines: generators that consumer data but does not generate it (think opposite of generator then(?))
+-
